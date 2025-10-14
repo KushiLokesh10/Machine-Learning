@@ -18,6 +18,7 @@ Essential Python concepts, libraries, and tips you need to get started with ML.
 
 ### 🔹 3. Beginner Projects
 Small, hands-on projects to understand core ideas through practice.  
+> 🔗 [Explore Beginner Projects here](https://github.com/KushiLokesh10/Machine-Learning/tree/main/Basic%20Projects)  
 > Example: Linear Regression, Iris Classification, Handwritten Digit Recognition, etc.
 
 ### 🔹 4. Resources
