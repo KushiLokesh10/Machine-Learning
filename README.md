@@ -78,6 +78,8 @@ Applications:
 Recommender systems are a specialized form of ML used to suggest items you might like.  
 They power Netflix, Amazon, Spotify, and YouTube — all using machine learning models that learn your preferences over time.
 
+---
+
 ### 🔹 2. Python for Machine Learning
 Essential Python concepts, libraries, and tips you need to get started with ML.  
 
