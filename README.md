@@ -93,7 +93,7 @@ Curated list of courses, books, articles, and tutorials that helped me learn.
 > A mix of free and high-quality learning resources.
 
 **📌 Must-Do Course:**  
-- **[Andrew Ng’s Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning)** – This is not optional! If you truly want to understand ML from the ground up, this course is essential. It covers core concepts, algorithms, and practical applications in a very beginner-friendly way.  
+- **[Andrew Ng’s Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_machine-learning-introduction_deeplearning-ai_ftcof_specializations_cx_dr_tt_gg_sem_pr_in_all_m_hyb_25-09_aimaxtest&campaignid=23063881851&adgroupid=189062376951&device=c&keyword=machine%20learning%20coursera&matchtype=p&network=g&devicemodel=&creativeid=778967834827&assetgroupid=&targetid=aud-2225792116033:kwd-294942243293&extensionid=&placement=&synthetic_keyword=machine%20learning%20coursera&gad_source=1&gad_campaignid=23063881851&gbraid=0AAAAADdKX6aTysb4dgprVGUgakiHPC6r-&gclid=CjwKCAjwr8LHBhBKEiwAy47uUpWzSkL_G4-B9EsuE7LwRMbdTYUKsIvUPebYZJZkCAAvF8aMMGIA6xoCuxQQAvD_BwE)** – This is not optional! If you truly want to understand ML from the ground up, this course is essential. It covers core concepts, algorithms, and practical applications in a very beginner-friendly way.  
 
 
 ### 🔹 5. Practice Questions
