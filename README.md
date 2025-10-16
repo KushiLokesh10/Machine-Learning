@@ -91,6 +91,7 @@ Small, hands-on projects to understand core ideas through practice.
 ### 🔹 4. Resources
 Curated list of courses, books, articles, and tutorials that helped me learn.  
 > A mix of free and high-quality learning resources.
+
 **📌 Must-Do Course:**  
 - **[Andrew Ng’s Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning)** – This is not optional! If you truly want to understand ML from the ground up, this course is essential. It covers core concepts, algorithms, and practical applications in a very beginner-friendly way.  
 
