@@ -86,6 +86,7 @@ Essential Python concepts, libraries, and tips you need to get started with ML.
 ### 🔹 3. Beginner Projects
 Small, hands-on projects to understand core ideas through practice.  
 > 🔗 [Explore Beginner Projects here](https://github.com/KushiLokesh10/Machine-Learning/tree/main/Basic%20Projects)
+
 > 📝 Note
 
 I noticed that some of the images in this notebook may not be displayed properly here on GitHub. These images are important for understanding key concepts and visualizations.
